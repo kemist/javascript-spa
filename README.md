@@ -3,6 +3,9 @@ README.md
 
 This is a sample app created by utilizing the guided setup process on the [Microsoft Application Registration Portal](https://apps.dev.microsoft.com/).
 
+This documentation comes from docs.microsoft.com.
+
+
 This a Javascript Single-Page App.
 
 
